@@ -1,5 +1,5 @@
 Information about mars
- - It is closest planet to earth
+ - It is NOT the closest planet to earth. It is the fourth rock from the sun.
  - Estimate travel time: not too long
  - May be a bit cold
  - more stuff added
